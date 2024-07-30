@@ -1,3 +1,4 @@
+import th from "./th";
 import cn from "./cn";
 import en from "./en";
 import pt from "./pt";
