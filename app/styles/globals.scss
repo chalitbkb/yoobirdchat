@@ -95,7 +95,8 @@ html {
 }
 
 body {
-  background-color: #004b68;//var(--gray);
+  // background-color:var(--gray);
+  background-image: linear-gradient(to bottom, #001a29 0%, #0a2e45 15%, #144261 30%, #20577d 45%, #2d6c99 60%, #4581b5 75%, #6796d1 90%);
   color: var(--black);
   margin: 0;
   padding: 0;
