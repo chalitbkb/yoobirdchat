@@ -159,6 +159,12 @@ const th: PartialLocaleType = {
       Title: "ขนาดตัวอักษร",
       SubTitle: "ปรับขนาดตัวอักษรของเนื้อหาการสนทนา",
     },
+    FontFamily: {
+      Title: "ฟอนต์แชท",
+      SubTitle:
+        "ฟอนต์ของเนื้อหาการสนทนา, ปล่อยว่างไว้เพื่อใช้ฟอนต์เริ่มต้นของระบบ",
+      Placeholder: "ชื่อฟอนต์",
+    },
     InjectSystemPrompts: {
       Title: "แทรกพรอมพ์ระบบ",
       SubTitle: "แทรกพรอมพ์ระบบทั่วโลกสำหรับทุกคำขอ",
