@@ -45,6 +45,7 @@ const th: PartialLocaleType = {
       PinToastAction: "ดู",
       Delete: "ลบ",
       Edit: "แก้ไข",
+      FullScreen: "เต็มจอ",
     },
     Commands: {
       new: "เริ่มการสนทนาใหม่",
