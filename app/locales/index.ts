@@ -77,7 +77,7 @@ export const ALL_LANG_OPTIONS: Record<Lang, string> = {
 };
 
 const LANG_KEY = "lang";
-const DEFAULT_LANG = "en";
+const DEFAULT_LANG = "th";
 
 const fallbackLang = en;
 const targetLang = ALL_LANGS[getLang()] as LocaleType;
@@ -140,6 +140,7 @@ export function getISOLang() {
 
 const DEFAULT_STT_LANG = "zh-CN";
 export const STT_LANG_MAP: Record<Lang, string> = {
+  th: "th-TH",
   cn: "zh-CN",
   en: "en-US",
   pt: "pt-BR",
